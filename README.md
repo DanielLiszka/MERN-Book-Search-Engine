@@ -12,11 +12,11 @@ No installation is neccessary. The application was hosted at herokuapp.com.
 
 ## Usage:
 
-Visit the Heroku deployment here: ![link](https://mern-book-search-122.herokuapp.com/)
+Visit the Heroku deployment here: [link](https://mern-book-search-122.herokuapp.com/)
 
 ## License:
 
-[License](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
 
 
 
