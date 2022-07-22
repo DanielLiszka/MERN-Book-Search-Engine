@@ -4,7 +4,7 @@
 
 ## Description:
 
-An existing Google Books API search engine app was converted to use the GraphQL API. It uses the MERN stack with a React front end, a Node.js/Express.js server, and a MongoDB database. 
+An existing Google Books API search engine app was converted to use the GraphQL API. It uses the MERN stack with a React front end, a Node.js/Express.js server, and a MongoDB database. The existing front-end was left mostly intact
 
 ## Installation:
 
