@@ -1,6 +1,6 @@
 # MERN Book Search Engine
 
-![screenshot]()
+![screenshot](./images/screenshot.png)
 
 ## Description:
 
